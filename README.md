@@ -27,5 +27,5 @@ If you prefer using your own computer, you can certainly do so. All you need is 
 
 Please understand that we cannot provide support how to install software or fix issues that occur during installation. Working with Python can be a little cumbersome at times because of different versions of the programming language, the libraries, which provide certain functionalities, many different tools and options, etc. If you feel a little adventurous feel very free to setup everything yourself and otherwise use Google Colab. 
 
-**Happy coding and look forward to meeting you in Berlin in April 2020**
+**Happy coding and look forward to meeting you in the VHB ProDok course on Machine Learning**
 
