@@ -2,9 +2,9 @@
 
 VHB-ProDok is a format offered by the German Academic Association for Business Research to support doctorates in business studies in German-speaking countries. Detailed information concerning the program and the more than 40 courses it offers are available at the [VHB-ProDok homepage](https://www.vhbonline.org/en/events/prodok).
 
-The repository targets participants of the course Machine Learning, which I will offer anually or bi-annually from 2020 onwards. Please refer to the [course's homepage](https://www.vhbonline.org/en/veranstaltungen/prodok/kurse-2020/translate-to-englisch-2004ms01) for detailed information on the format and content of the course.
+The repository targets participants of the course Machine Learning, which I will offer anually or bi-annually from 2020 onwards. Please refer to the [course's homepage](https://www.vhbonline.org/en/veranstaltungen/prodok/kurse-2023/2304ms09) for detailed information on the format and content of the course.
 
-The repository comprises the files of the pre-course demos, which are meant to support participants with preparing for Python part of the course. Participants can revisit their abilities in descriptive statistics, multivariate statistical analysis, and, of course, Python programming. 
+The repository comprises the files of the pre-course demos, which are meant to support participants with preparing for the Python part of the course. Participants can revisit their abilities in descriptive statistics, multivariate statistical analysis, and, of course, Python programming. 
 
 The pre-course assigment comprises two tasks. The first tasks involves creating some synthetic (linearly seperable) data and fitting a logisitc regression classifier to that data. On the way, you will create some visualizations of both, the data and the classification model. The main learning objectives associated with this task are:
 * Basic Python programming
