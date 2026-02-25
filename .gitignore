@@ -1,5 +1,6 @@
 # Ignore archived materials
 archive/
+teacher/
 
 # Temp files
 *.tmp
