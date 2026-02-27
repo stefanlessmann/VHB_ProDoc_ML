@@ -1,15 +1,6 @@
 <div style="position:relative; width:100%; height:200px;">
-  <img src="https://raw.githubusercontent.com/stefanlessmann/VHB_ProDoc_ML/master/banner-nb.png" style="width:100%; object-fit:cover;" alt="ProDok-MachineLearning-Banner">
-  <div style="
-      position:absolute;
-      left:4%;
-      top:50%;
-      transform:translateY(-50%);
-      font-size:3.2vw;
-      font-weight:750;
-      color:#1f2a44;">
-    ProDok – Machine Learning
-  </div>
+  <img src="https://raw.githubusercontent.com/stefanlessmann/VHB_ProDoc_ML/master/banner.png" style="width:100%; object-fit:cover;" alt="ProDok-MachineLearning-Banner">
+
 </div>
 
 # VHB-ProDok Course Machine Learning
